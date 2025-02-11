@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ku">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>وێبسایتی من</title>
+    <style>
+        body {
+            background-color: black; /* ڕەنگی باکگراوند */
+            color: yellow; /* ڕەنگی تێکست */
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* فۆنتی جوان */
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.2em;
+            margin-bottom: 30px;
+        }
+        a {
+            color: yellow;
+            text-decoration: none;
+            display: block;
+            margin: 20px 0;
+            font-size: 20px;
+        }
+        a img {
+            width: 30px;
+            height: 30px;
+            vertical-align: middle;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>سڵاو! بەخێربێن بۆ وێبسایتی من</h1>
+    <p>هەموو پلاتفۆڕمەکانم:</p>
+
+    <!-- لینکەکان -->
+    <a href="https://www.snapchat.com/add/alan_mariwan16?share_id=FkHDEHI1smk&locale=en-US">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Snapchat.svg/1024px-Logo_of_Snapchat.svg.png" alt="Snapchat">
+        سناپچات
+    </a>
+    <a href="https://www.instagram.com/now.2o21?igsh=MWpoamcxMWd5NW9wdQ==">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="Instagram">
+        ئینستاگرام
+    </a>
+    <a href="https://www.facebook.com/share/1ZEMrxM6wE/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1024px-Facebook_f_logo_%282019%29.svg.png" alt="Facebook">
+        فەیسبووک
+    </a>
+    <a href="https://www.tiktok.com/@stern.alphard">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TikTok_logo.svg/1024px-TikTok_logo.svg.png" alt="TikTok">
+        تیکتۆک
+    </a>
+</body>
+</html>
